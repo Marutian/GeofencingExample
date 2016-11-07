@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "439768487008",
+    "project_id": "firebase-somacafe"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439768487008:android:d23cd97a7085dd4c",
+        "android_client_info": {
+          "package_name": "kr.soma.intelligentcafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVqXKOFhHnpecAjDyzKDkOIaJraEj_Oew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439768487008:android:6190a2c52c910164",
+        "android_client_info": {
+          "package_name": "com.marutian.qwer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVqXKOFhHnpecAjDyzKDkOIaJraEj_Oew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

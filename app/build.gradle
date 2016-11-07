@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
-
+apply plugin: 'com.google.gms.google-services'
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.3"
     defaultConfig {
-        applicationId "com.marutian.qwer"
+        applicationId "com.marutian.geofence_example"
         minSdkVersion 19
         targetSdkVersion 23
         versionCode 1
@@ -31,4 +31,5 @@ dependencies {
     compile 'com.squareup.okhttp3:okhttp:3.4.1'
     compile 'com.squareup.okhttp3:logging-interceptor:+'
     compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'com.google.android.gms:play-services:8.3.0'
 }

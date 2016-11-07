@@ -1,4 +1,4 @@
-package com.marutian.qwer;
+package com.marutian.geofence_example;
 
 import android.app.Application;
 
@@ -14,6 +14,5 @@ public class App extends Application {
     public void onCreate() {
         super.onCreate();
 
-        RetrofitUtil.initRetrofit();  //반드시 해줘야 함
     }
 }

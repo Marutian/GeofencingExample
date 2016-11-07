@@ -1,4 +1,4 @@
-package com.marutian.qwer;
+package com.marutian.geofence_example;
 
 import org.junit.Test;
 
